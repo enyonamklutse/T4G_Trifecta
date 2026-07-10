@@ -6,6 +6,7 @@
 
 .big-div{
     border:dotted 1px black;
+    border: dotted 1px black;
     height: 250px;
     width: 260px;
 }
@@ -14,6 +15,7 @@
 .colour-div20{
     height: 125px;
     background-color:deeppink;
+    background-color: rgb(48, 108, 73);
 }
 
 .text-div{
@@ -22,7 +24,7 @@
 
 /* styling card 2 */
 .colour-div21{
-     background-color: aquamarine;
+     background-color: ;
      height: 120px;
 }
 
