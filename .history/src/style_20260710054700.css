@@ -1,0 +1,21 @@
+
+.big-div{
+    border: dotted 1px black;
+    height: 250px;
+    width: 260px;
+}
+
+
+.colour-div1{
+    height: 150px;
+    background-color: rgb(48, 108, 73);
+}
+
+.text-div{
+    font-size: 15px;
+}
+
+/* styling card 2 */
+.colour-div2{
+     background-color:  ;
+}
