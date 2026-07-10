@@ -6,6 +6,7 @@
 
 
 .big-div{
+    border:dotted 1px rgb(46, 89, 141);
     border: dotted 1px black;
     height: 250px;
     width: 260px;
@@ -39,6 +40,7 @@ height: 115px;
 /* styling card 4 */
 .colour-div4{
 background-color:gold;
+background-color: chartreuse;
 height:110px ;
 }
 
