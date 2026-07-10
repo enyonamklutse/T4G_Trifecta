@@ -16,7 +16,7 @@
 
 .colour-div1{
     height: 125px;
-    background-color: rgb(17, 37, 27);
+    background-color: rgb(48, 108, 73);
 }
 
 .text-div{
@@ -49,16 +49,6 @@ height:110px ;
     height:111px;
 }
 .colour-div9{
-    background-color: rgb(11, 38, 158);
-    height: 110px;
-}
-
-.colour-div13{
-    background-color: darkorange;
-    height: 119px;
-}
-
-.colour-div12{
-    background-color: indianred;
-    height: 105px;
+    background-color: crimson;
+    height: 110;
 }
