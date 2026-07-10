@@ -1,7 +1,6 @@
 .main-div1{
     display: flex;
     justify-content: space-around;
-    flex-wrap: wrap;
 }
 
 
@@ -9,17 +8,12 @@
     border:dotted 1px black;
     height: 250px;
     width: 260px;
-    margin-top: 20px;
 }
 
 
 .colour-div20{
     height: 125px;
- card2
-    background-color: rgb(17, 37, 27);
-
     background-color:deeppink;
-
 }
 
 .text-div{
