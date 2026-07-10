@@ -1,21 +1,19 @@
 .main-div1{
     display: flex;
     justify-content: space-around;
-    flex-wrap: wrap;
 }
 
 
 .big-div{
-    border:dotted 1px black;
+    border: dotted 1px black;
     height: 250px;
     width: 260px;
-    margin-top: 20px;
 }
 
 
-.colour-div20{
+.colour-div1{
     height: 125px;
-    background-color:deeppink;
+    background-color: rgb(48, 108, 73);
 }
 
 .text-div{
@@ -23,19 +21,20 @@
 }
 
 /* styling card 2 */
-.colour-div21{
-     background-color: aquamarine;
+.colour-div2{
+     background-color: red ;
      height: 120px;
 }
 
 /* styling card 3 */
-.colour-div22{
-background-color:darkslateblue;
+.colour-div3{
+background-color: blueviolet;
 height: 115px;
 }
 
 /* styling card 4 */
-.colour-div23{
-background-color:gold;
+.colour-div4{
+background-color: chartreuse;
 height:110px ;
 }
+ git 
