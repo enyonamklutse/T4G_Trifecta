@@ -36,4 +36,11 @@ height: 115px;
 .colour-div4{
 background-color: chartreuse;
 height:110px ;
+}
+
+.main-div2{
+    display: flex;
+    justify-content: space-around;
+}
+
 

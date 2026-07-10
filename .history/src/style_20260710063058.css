@@ -35,5 +35,12 @@ height: 115px;
 /* styling card 4 */
 .colour-div4{
 background-color: chartreuse;
-height:110px ;
+height:125px ;
+}
+
+.main-div2{
+    display: flex;
+    justify-content: space-around;
+}
+
 

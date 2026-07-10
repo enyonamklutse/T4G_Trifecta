@@ -1,0 +1,17 @@
+.big-div{
+    border: dotted 1px black;
+    height: 250px;
+    width: 260px;
+}
+
+
+.colour-div1{
+    height: 150px;
+    background-color: blue;
+}
+
+.text-div{
+    font-size: 15px;
+}
+
+.colour-di
