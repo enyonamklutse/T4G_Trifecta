@@ -1,15 +1,14 @@
 .main-div1{
     display: flex;
     justify-content: space-around;
-    flex-wrap: wrap;
 }
 
 
 .big-div{
     border:dotted 1px black;
+    border: dotted 1px black;
     height: 250px;
     width: 260px;
-    margin-top: 20px;
 }
 
 
