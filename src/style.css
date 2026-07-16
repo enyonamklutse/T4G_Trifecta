@@ -1,21 +1,24 @@
-.main-div1{
+.main-div{
     display: flex;
     justify-content: space-around;
+    transition: transform 0.3s ease;
+}
+.big-div:hover{
+transform: scale(1.05);
+
 }
 
 
 .big-div{
     border:dotted 1px black;
-    border: dotted 1px black;
     height: 250px;
     width: 260px;
 }
 
 
-.colour-div1{
+.colour-div9{
     height: 125px;
     background-color:deeppink;
-    background-color: rgb(48, 108, 73);
 }
 
 .text-div{
@@ -23,24 +26,20 @@
 }
 
 /* styling card 2 */
-.colour-div2{
+.colour-div10{
 
      background-color:aquamarine;
-     background-color:brown;
-     background-color: red ;
      height: 120px;
 }
 
 /* styling card 3 */
-.colour-div3{
+.colour-div11{
 background-color:darkslateblue;
-background-color: blueviolet;
 height: 115px;
 }
 
 /* styling card 4 */
-.colour-div4{
+.colour-div12{
 background-color:gold;
-background-color: chartreuse;
 height:110px ;
 }
