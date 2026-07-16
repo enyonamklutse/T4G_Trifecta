@@ -1,7 +1,7 @@
-.main-div1{
+.main-div{
     display: flex;
     justify-content: space-around;
-    flex-wrap: wrap;
+    transition: transform 0.3s ease;
 }
 
 
@@ -10,6 +10,10 @@
     height: 250px;
     width: 260px;
     margin-top: 20px;
+   
+}
+.big-div:hover{
+ transform: scale(1.05);
 }
 .text-div{
     font-size: 15px;
@@ -17,9 +21,10 @@
 
 /* styling card 1  */
 .colour-div1{
-    height: 125px;
-    background-color:rgb(71, 18, 21);
+   height: 135px;
+    background-color:rgb(232, 50, 1);
 }
+
 
 .colour-div2{
     height: 135px;
@@ -54,6 +59,29 @@
 .colour-div8{
     height: 125px;
     background-color:rgb(253, 191, 177);
+  
+  /* styling card9*/
+.colour-div9{
+    height: 125px;
+    background-color:rgb(71, 18, 21);
+}
+  
+/* styling card 10 */
+.colour-div10{
+     background-color:aquamarine;
+     height: 120px;
+}
+
+/* styling card 11 */
+.colour-div11{
+background-color:darkslateblue;
+height: 115px;
+}
+
+/* styling card 12 */
+.colour-div12{
+background-color:gold;
+height:110px ;
 }
 
 
