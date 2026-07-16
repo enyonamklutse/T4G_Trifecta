@@ -1,7 +1,7 @@
-.main-div{
+.main-div1{
     display: flex;
     justify-content: space-around;
-    transition: transform 0.3s ease;
+    flex-wrap: wrap;
 }
 
 
@@ -10,10 +10,6 @@
     height: 250px;
     width: 260px;
     margin-top: 20px;
-   
-}
-.big-div:hover{
- transform: scale(1.05);
 }
 .text-div{
     font-size: 15px;
@@ -21,24 +17,23 @@
 
 /* styling card 1  */
 .colour-div1{
-   height: 135px;
-    background-color:rgb(232, 50, 1);
+    height: 125px;
+    background-color:rgb(147, 15, 22);
 }
 
-
 .colour-div2{
-    height: 135px;
-    background-color:rgb(236, 56, 20);
+    height: 125px;
+    background-color:rgb(169, 241, 13);
 }
 
 .colour-div3{
     height: 125px;
-    background-color:rgb(59, 12, 55);
+    background-color:rgb(69, 38, 1);
 }
 
 .colour-div4{
     height: 125px;
-    background-color:rgb(235, 115, 11);
+    background-color:rgb(79, 27, 44);
 }
 /* styling card 2*/
 .colour-div5{
@@ -58,32 +53,27 @@
 
 .colour-div8{
     height: 125px;
-    background-color:rgb(253, 191, 177);
-  
-  /* styling card9*/
+    background-color:rgb(77, 29, 18);
+}
+
+/* styling card 3 */
 .colour-div9{
     height: 125px;
-    background-color:rgb(71, 18, 21);
+    background-color:deeppink;
 }
-  
-/* styling card 10 */
+
 .colour-div10{
-     background-color:aquamarine;
+     background-color: aquamarine;
      height: 120px;
 }
 
-/* styling card 11 */
 .colour-div11{
 background-color:darkslateblue;
 height: 115px;
 }
 
-/* styling card 12 */
+/* styling card2 */
 .colour-div12{
 background-color:gold;
 height:110px ;
 }
-
-
-
- 
