@@ -1,0 +1,41 @@
+.main-div1{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.big-div{
+    border:dotted 1px black;
+    border: dotted 1px black;
+    height: 250px;
+    width: 260px;
+}
+
+
+.colour-div20{
+    height: 125px;
+    background-color:deeppink;
+    background-color: rgb(48, 108, 73);
+}
+
+.text-div{
+    font-size: 15px;
+}
+
+/* styling card 2 */
+.colour-div21{
+     background-color: ;
+     height: 120px;
+}
+
+/* styling card 3 */
+.colour-div22{
+background-color:darkslateblue;
+height: 115px;
+}
+
+/* styling card 4 */
+.colour-div23{
+background-color:gold;
+height:110px ;
+}

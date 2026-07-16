@@ -18,23 +18,10 @@
 /* styling card 1  */
 .colour-div1{
     height: 125px;
-    background-color:rgb(71, 18, 21);
+    background-color:rgb(79, 147, 15);
 }
 
-.colour-div2{
-    height: 135px;
-    background-color:rgb(69, 41, 46);
-}
 
-.colour-div3{
-    height: 125px;
-    background-color:rgb(69, 38, 1);
-}
-
-.colour-div4{
-    height: 125px;
-    background-color:rgb(235, 115, 11);
-}
 /* styling card 2*/
 .colour-div5{
     height: 125px;
@@ -56,6 +43,24 @@
     background-color:rgb(77, 29, 18);
 }
 
+/* styling card 3 */
+.colour-div9{
+    height: 125px;
+    background-color:deeppink;
+}
 
+.colour-div10{
+     background-color: aquamarine;
+     height: 120px;
+}
 
- 
+.colour-div11{
+background-color:darkslateblue;
+height: 115px;
+}
+
+/* styling card2 */
+.colour-div12{
+background-color:gold;
+height:110px ;
+}

@@ -1,0 +1,45 @@
+.main-div1{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+
+.big-div{
+    border: dotted 1px black;
+    height: 250px;
+    width: 260px;
+    margin-top: 20px;
+}
+
+
+.colour-div20{
+    height: 125px;
+ card2
+    background-color: rgb(17, 37, 27);
+
+    background-color:deeppink;
+
+}
+
+.text-div{
+    font-size: 15px;
+}
+
+/* styling card 2 */
+.colour-div21{
+     background-color: aquamarine;
+     height: 120px;
+}
+
+/* styling card 3 */
+.colour-div22{
+background-color:darkslateblue;
+height: 115px;
+}
+
+/* styling card 4 */
+.colour-div23{
+background-color:gold;
+height:110px ;
+}
