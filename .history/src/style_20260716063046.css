@@ -1,9 +1,8 @@
-.main-div1{
+.main-div{
     display: flex;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content:space-around;
-    transition: ease;
+    display:fle
+    justify-content:space-around
+    transition: transform 0.3s ease;
 }
 
 
@@ -76,9 +75,4 @@
 .colour-div11{
     height: 125px;
     background-color:rgb(55, 61, 66);
-}
-
-.colour-div12{
-    height: 125px;
-    background-color:rgb(132, 94, 116);
 }
