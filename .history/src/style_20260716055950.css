@@ -1,9 +1,7 @@
-.main-div1{
+.main-div{
     display: flex;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content:space-around;
-    transition: ease;
+    justify-content: space-around;
+    transition: transform 0.3s ease;
 }
 
 
@@ -30,12 +28,12 @@
 
 .colour-div2{
     height: 135px;
-    background-color:rgb(39, 20, 16);
+    background-color:rgb(236, 56, 20);
 }
 
 .colour-div3{
     height: 125px;
-    background-color:rgb(176, 94, 169);
+    background-color:rgb(59, 12, 55);
 }
 
 .colour-div4{
@@ -63,22 +61,6 @@
     background-color:rgb(59, 25, 17);
 }
 
-.colour-div9{
-    height: 125px;
-    background-color:rgb(86, 53, 81);
-}
 
-.colour-div10{
-    height: 125px;
-    background-color:rgb(209, 245, 0);
-}
 
-.colour-div11{
-    height: 125px;
-    background-color:rgb(55, 61, 66);
-}
-
-.colour-div12{
-    height: 125px;
-    background-color:rgb(132, 94, 116);
-}
+ 
